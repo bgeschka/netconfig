@@ -1,0 +1,17 @@
+{
+  "name": "netconfig",
+  "version": "1.0.0",
+  "description": "set/change/list ip addresses on linux and windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ipconfig",
+    "iproute2",
+    "network",
+    "ifconfig"
+  ],
+  "author": "Björn Geschka",
+  "license": "MIT"
+}
