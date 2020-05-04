@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/bgeschka/netconfig.git"
+		"url": "https://github.com/bgeschka/netip.git"
 	},
 	"keywords": [
 		"ipconfig",
