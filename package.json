@@ -1,5 +1,5 @@
 {
-	"name": "netip",
+	"name": "@bgeschka/netip",
 	"version": "1.0.0",
 	"description": "set/change/list ip addresses on linux and windows",
 	"main": "index.js",
